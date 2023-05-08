@@ -1,0 +1,9 @@
+[Desktop Entry]
+
+Version=1.0
+Type=Application
+Name=Blue-head
+Exec=/home/varun/headphones/headphones.sh
+Icon=/home/varun/headphones/headphones.png
+Terminal=True
+
